@@ -19,3 +19,19 @@ output "sample2" {
   value = var.sample2
 }
 
+variable "string" {
+  default = "Hello"
+}
+
+variable "number" {
+  default = 10
+}
+
+variable "boolean" {
+  default = false
+}
+
+output "data-types" {
+  value = "String = ${var.string} , Number = ${var.number} , Boolean = ${var.boolean}"
+}
+
