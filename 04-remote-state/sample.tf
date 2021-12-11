@@ -18,3 +18,4 @@ terraform {
     dynamodb_table = "terraform"
   }
 }
+
