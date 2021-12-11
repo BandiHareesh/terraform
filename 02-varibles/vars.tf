@@ -91,7 +91,3 @@ output "SEASON" {
   value = var.SEASON
 }
 
-variable "FRUITS" {}
-output "FRUITS" {
-  value = var.FRUITS
-}
