@@ -6,7 +6,7 @@ module "ec2" {
   depends_on = [module.sg]
   source  = "./ec2"
   SG_ID   = module.sg.SG_ID
-  //AMI = "ami-074df373d6bafa625"
+  //AMI = "ami-0855cab4944392d0a"
   TYPE = "t3.small"
 }
 
