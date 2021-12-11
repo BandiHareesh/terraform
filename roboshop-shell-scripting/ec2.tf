@@ -1,5 +1,5 @@
 resource "aws_spot_instance_request" "cheap_worker" {
-  count                     = local.LENGTH
+  count                     = length(var.COMPONENTS)
   ami                       = "ami-0855cab4944392d0a"
   spot_price                = "0.0034"
   instance_type             = "t3.micro"
