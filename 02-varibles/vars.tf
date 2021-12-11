@@ -26,8 +26,8 @@ variable "string" {
 variable "number" {
   default = 10
 }
-
 variable "boolean" {
+
   default = false
 }
 
