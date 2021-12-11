@@ -3,7 +3,7 @@ resource "aws_spot_instance_request" "cheap_worker" {
   ami                       = "ami-0855cab4944392d0a"
   spot_price                = "0.0031"
   instance_type             = "t3.micro"
-  vpc_security_group_ids    = ["sg-0d00b6b80c9e9b60c"]
+  vpc_security_group_ids    = ["sg-04bea5344c2dfe413"]
   wait_for_fulfillment      = true
   //spot_type                 = "persistent"
   tags                      = {
