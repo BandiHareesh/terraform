@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e88a1aa8-ec8a-41c1-90eb-b698e5ba09a4" name="Default Changelist" comment="jenkins file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jenkinfiles" beforeDir="false" />
-    </list>
+    <list default="true" id="e88a1aa8-ec8a-41c1-90eb-b698e5ba09a4" name="Default Changelist" comment="jenkins file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,20 +37,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639108236930</updated>
-    </task>
-    <task id="LOCAL-00001" summary="checking output in terraform">
-      <created>1639108745654</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1639108745654</updated>
-    </task>
-    <task id="LOCAL-00002" summary="checking output in terraform">
-      <created>1639108939914</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1639108939914</updated>
     </task>
     <task id="LOCAL-00003" summary="checking output in terraform">
       <created>1639109637883</created>
@@ -384,7 +367,21 @@
       <option name="project" value="LOCAL" />
       <updated>1639284949625</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="jenkins file">
+      <created>1639294339938</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1639294339939</updated>
+    </task>
+    <task id="LOCAL-00051" summary="jenkins file">
+      <created>1639294518365</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1639294518365</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
